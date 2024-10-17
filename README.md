@@ -1,8 +1,9 @@
 # Campus_Network_Design
 This project tries to create a sample network design for campus ( Done in 7th semester).
 
-<object data="./Details_of_Project.pdf" width="1000" height="1000" type='application/pdf'></object>
+## Network Design Diagram
+![Network Diagram](./Network_Design_Diagram.png)
 
-[Download Pdf](./Details_of_Project.pdf)
+[Download Pdf](https://github.com/user-attachments/files/17410650/Details_of_Project.pdf)
 
 
